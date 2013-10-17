@@ -16,7 +16,7 @@ module Loterias
           :five_numbers_winners => ar[5],
           :five_numbers_prize => ar[6],
           :four_numbers_winners => ar[7],
-          :four_numbers_winners => ar[8],
+          :four_numbers_prize => ar[8],
           # imagem_anterior => ar[9],
           # imagem_posterior => ar[10],
           :drawing_date => Time.parse(ar[11]),
